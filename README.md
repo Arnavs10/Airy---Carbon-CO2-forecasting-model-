@@ -122,5 +122,4 @@ High‑level flow of the system:
 - Recommended environment: Google Colab or a local virtualenv.  
 - Key libraries: `numpy`, `pandas`, `statsmodels`, `pmdarima`, `tensorflow`, `scikit-learn`, `matplotlib`.  
 
-### Setup
 
